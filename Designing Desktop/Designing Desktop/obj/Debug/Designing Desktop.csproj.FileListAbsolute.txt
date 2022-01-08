@@ -1,0 +1,12 @@
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\bin\Debug\Designing Desktop.exe.config
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\bin\Debug\Designing Desktop.exe
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\bin\Debug\Designing Desktop.pdb
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\obj\Debug\Designing_Desktop.Form1.resources
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\obj\Debug\Designing_Desktop.Forms.formDashboard.resources
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\obj\Debug\Designing_Desktop.Properties.Resources.resources
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\obj\Debug\Designing_Desktop.userControls.DashboardUC.resources
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\obj\Debug\Designing Desktop.csproj.GenerateResource.cache
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\obj\Debug\Designing Desktop.csproj.CoreCompileInputs.cache
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\obj\Debug\Designing Desktop.exe
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\obj\Debug\Designing Desktop.pdb
+C:\Users\szymo\source\repos\Designing Desktop\Designing Desktop\obj\Debug\Designing_Desktop.userControls.PodarunkiUC.resources
